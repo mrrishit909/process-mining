@@ -1,0 +1,11 @@
+activity,cases,share
+Create Application > Submitted > Concept > Accepted > Complete > Cancelled,6840,0.2171
+Create Application > Submitted > Concept > Accepted > Complete > Validating > Incomplete > Validating > Pending,2956,0.0938
+Create Application > Concept > Accepted > Complete > Cancelled,2467,0.0783
+Create Application > Submitted > Concept > Accepted > Complete > Validating > Pending,2301,0.073
+Create Application > Concept > Accepted > Complete > Validating > Pending,2280,0.0724
+Create Application > Concept > Accepted > Complete > Validating > Incomplete > Validating > Pending,2134,0.0677
+Create Application > Submitted > Concept > Accepted > Complete > Validating > Incomplete > Pending,1674,0.0531
+Create Application > Submitted > Concept > Accepted > Complete > Validating > Denied,1660,0.0527
+Create Application > Submitted > Concept > Accepted > Complete > Validating > Incomplete > Validating > Incomplete > Validating > Pending,1130,0.0359
+Create Application > Submitted > Concept > Accepted > Complete > Validating > Incomplete > Validating > Incomplete > Pending,1075,0.0341

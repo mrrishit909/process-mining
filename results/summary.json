@@ -1,0 +1,88 @@
+{
+  "events": 1202267,
+  "cases": 31509,
+  "activities": 26,
+  "resources": 149,
+  "first_event": "2016-01-01 09:51:15.304000+00:00",
+  "last_event": "2017-02-01 14:11:03.499000+00:00",
+  "outcomes": {
+    "Pending": 17228,
+    "Cancelled": 10431,
+    "Denied": 3752,
+    "open at end of log": 98
+  },
+  "outcome_share": {
+    "Pending": 0.5468,
+    "Cancelled": 0.331,
+    "Denied": 0.1191,
+    "open at end of log": 0.0031
+  },
+  "stages_for_accepted_applications": {
+    "days_total": {
+      "cases": 17228,
+      "median": 14.822693049768517,
+      "p25": 10.230333559027779,
+      "p75": 22.740693628472222,
+      "mean": 18.11176388120195
+    },
+    "days_prepare_offer": {
+      "cases": 17228,
+      "median": 0.8635195023148148,
+      "p25": 0.009860075231481481,
+      "p75": 1.8454909866898148,
+      "mean": 1.409937882502725
+    },
+    "days_customer_returns": {
+      "cases": 17228,
+      "median": 7.787955046296297,
+      "p25": 5.919156278935185,
+      "p75": 11.980326250000001,
+      "mean": 9.863689895069475
+    },
+    "days_bank_validates": {
+      "cases": 17228,
+      "median": 4.914807216435185,
+      "p25": 1.9188574942129628,
+      "p75": 8.28450136863426,
+      "mean": 6.8381361036297506
+    }
+  },
+  "median_days_total_by_outcome": {
+    "Cancelled": 31.61,
+    "Denied": 14.09,
+    "Pending": 14.82,
+    "open at end of log": NaN
+  },
+  "work_vs_wait": {
+    "stretches": 254370,
+    "dropped_over_cap": 649,
+    "median_hands_on_hours_accepted": 0.54727125,
+    "median_elapsed_hours_accepted": 355.7446331944444,
+    "hands_on_share_of_elapsed_accepted": 0.0015017844235033014
+  },
+  "rework": {
+    "share_of_decided_cases_with_a_loop": 0.6674451858913251,
+    "one_loop_pct_longer_adjusted": 28.983659589599895,
+    "one_loop_ci": [
+      26.51889587072349,
+      31.496440327183905
+    ]
+  },
+  "channel": {
+    "online_only_share_of_offers": 0.04854671363189802,
+    "returned_odds_ratio_online_only_adjusted": 0.781116650254469,
+    "returned_or_ci": [
+      0.7130624807900674,
+      0.8556658606251848
+    ],
+    "days_to_return_pct_diff_online_only_adjusted": -82.15677720659758,
+    "days_ci": [
+      -83.95291340153473,
+      -80.15960107765325
+    ]
+  },
+  "variants": {
+    "distinct_application_paths": 102,
+    "top10_share": 0.778095147418198
+  }
+}

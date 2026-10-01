@@ -1,0 +1,33 @@
+activity,nxt,count,cases,median_hours
+O_Created,O_Sent (mail and online),36212,30905,0.007
+A_Accepted,O_Created,31509,31509,0.053
+A_Concept,A_Accepted,31509,31509,20.719
+O_Sent (mail and online),A_Complete,30912,30912,0.0
+A_Validating,O_Returned,21543,20797,0.005
+A_Submitted,A_Concept,20423,20423,0.019
+A_Create Application,A_Submitted,20423,20423,0.0
+A_Complete,A_Validating,18541,18541,170.402
+O_Accepted,A_Pending,17228,17228,0.0
+A_Incomplete,A_Validating,14333,10504,23.246
+O_Returned,A_Incomplete,14054,13769,25.936
+A_Create Application,A_Concept,11086,11086,0.0
+A_Cancelled,O_Cancelled,10270,10270,0.0
+A_Validating,A_Incomplete,8912,6038,4.598
+A_Complete,A_Cancelled,8034,8034,736.459
+A_Validating,O_Accepted,7144,7144,6.007
+O_Returned,O_Accepted,5290,5290,26.348
+A_Incomplete,O_Accepted,4781,4781,89.921
+A_Pending,O_Cancelled,4436,4436,0.0
+O_Cancelled,O_Cancelled,4429,3384,0.0
+A_Complete,O_Created,4135,4135,98.411
+O_Created,O_Created,3913,3389,0.009
+A_Denied,O_Refused,3720,3720,0.0
+O_Sent (mail and online),A_Validating,3250,3175,160.256
+O_Sent (mail and online),O_Sent (mail and online),3111,2781,0.0
+O_Returned,A_Denied,2255,2255,53.105
+O_Created,O_Sent (online only),1920,1785,0.005
+A_Incomplete,O_Created,1704,1635,5.044
+O_Returned,A_Validating,1453,1414,2.495
+A_Incomplete,O_Returned,1169,1158,0.038
+A_Validating,A_Denied,1117,1117,21.39
+O_Sent (mail and online),A_Cancelled,1038,1038,736.207
